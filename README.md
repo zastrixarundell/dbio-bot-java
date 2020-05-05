@@ -1,17 +1,17 @@
 # DBIO bot example
 A JavaCord bot as an example for the DBIO library.
 
-
 [![Build Status](https://travis-ci.com/zastrixarundell/dbio-bot.svg?branch=master)](https://travis-ci.com/zastrixarundell/dbio)
 
 ![discord.bio homepage](https://raw.githubusercontent.com/zastrixarundell/dbio/master/assets/home.png)
 
 ## So, where's the code?
-This bot was a made as a single-class example for a bot which sends information to the channel. The code can be found [here](https://github.com/zastrixarundell/dbio-bot/blob/master/src/main/java/bio/discord/dbiobot/DbioBot.java).
+This bot was a made as a single-class example for a bot which sends information to the channel. The code can be found found [here](https://github.com/zastrixarundell/dbio-bot/blob/master/src/main/java/bio/discord/dbiobot/DbioBot.java).
 
 If you're too lazy to click that, you can see it here:
 ```java
 public class DbioBot
+
 {
     public static void main(String[] args)
     {
