@@ -11,7 +11,6 @@ This bot was a made as an single-class example which sends the discord.bio infor
 If you're too lazy to click that, you can see it here:
 ```java
 public class DbioBot
-
 {
     public static void main(String[] args)
     {
