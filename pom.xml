@@ -30,8 +30,8 @@
     <dependencies>
         <dependency>
             <groupId>com.github.zastrixarundell</groupId>
-            <artifactId>dbio</artifactId>
-            <version>0.0.0</version>
+            <artifactId>dbio-java</artifactId>
+            <version>0.0.1</version>
         </dependency>
         <dependency>
             <groupId>org.javacord</groupId>
